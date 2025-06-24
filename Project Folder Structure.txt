@@ -1,0 +1,13 @@
+Customer_App/
+├── customer_app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── customer_ops.py
+│   ├── validation.py
+│   ├── ui.py
+│   ├── data.py
+├── requirements.txt
+├── tests/
+│   ├── __init__.py
+│   ├── test_app.py
+├── README.md
